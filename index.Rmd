@@ -1,0 +1,160 @@
+---
+title: "Panduan Registrasi Ulang 2021"
+#author: "Subbagian Registrasi dan Statistik Untirta"
+date: "Diupdate pada: `r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
+    theme: spacelab
+    toc_float: no
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+---
+
+```{=html}
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 14px;
+  }
+td {  /* Table  */
+  font-size: 12px;
+}
+h1.title {
+  font-size: 28px;
+  color: Maroon;
+}
+h1 { /* Header 1 */
+  font-size: 24px;
+  color: Maroon;
+  font-weight: bold;
+}
+h2 { /* Header 2 */
+  font-size: 20px;
+  color: Maroon;
+  font-weight: bold;
+}
+h3 { /* Header 3 */
+  font-size: 16px;
+#  font-family: "Times New Roman", Times, serif;
+  color: Maroon;
+  font-weight: bold;
+}
+h4 { /* Header 4 */
+  font-size: 14px;
+  color: Maroon;
+  font-weight: bold;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 12px;
+}
+</style>
+```
+Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** (**SBMPTN**), **Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat** (**SMMPTN**), dan **Ujian Masuk Mandiri** (**UMM**) D3 Tahun 2020 di Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
+
+1.  Jadwal registrasi ulang
+
+    | NO  | SELEKSI | REGISTRASI ULANG            | PEMBAYARAN UKT                 |
+    |:----|:--------|:----------------------------|:-------------------------------|
+    | 1\. | SBMPTN  | 16 - 26 Agustus 2020        | 27 Agustus - 04 September 2020 |
+    | 2\. | SMMPTN  | 02 - 06 September 2020      | 09 - 13 September 2020         |
+    | 3\. | UMM D3  | 10 Juli - 04 September 2020 | 09 - 13 September 2020         |
+
+2.  Pemberkasan secara *online* melalui laman <https://admisi.untirta.ac.id> sesuai dengan jadwal di atas.
+
+    -   *Login* pada laman <https://admisi.untirta.ac.id> dengan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar aktif**).
+
+    -   Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf (**ukuran file tidak melebihi 260kb**) untuk di-*upload*.
+
+        1.  Pakta Integritas Uang Kuliah Tunggal
+
+            -   [Jalur SBMPTN dan SMMPTN](https://drive.google.com/file/d/1NZKdSxkkQ_Xqc67esXABnTGOSXUDaarN/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+            -   [Jalur UMM D3 dan Alih Jenjang](https://drive.google.com/file/d/1F19P5ILL59fXVp004ce3mLjBcmfkbjkp/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+
+        2.  [Surat Pernyataan Mentaati Peraturan](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+
+        3.  Ijazah bagi lulusan tahun 2018, 2019, dan 2020 / Surat Keterangan Lulus bagi lulusan tahun 2020 yang belum memperoleh Ijazah.
+
+        4.  Kartu Peserta Tes (*scan* dan *upload*).
+
+        5.  Akta Kelahiran (*scan* dan *upload*).
+
+        6.  Kartu Keluarga (*scan* dan *upload*).
+
+        7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
+
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman <https://stimulus.pln.co.id/> seperti pada gambar berikut.
+
+            ![](pln.png)
+
+        8.  SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+
+        9.  Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk **Program Studi berikut** (*scan*, jadikan 1 file, dan *upload*)
+
+            | No.  | Program Studi                        | Keterangan                                      |
+            |:-----|:-------------------------------------|:------------------------------------------------|
+            | 1\.  | Pendidikan Biologi                   | Tidak Boleh Buta Warna                          |
+            | 2\.  | Pendidikan Kimia                     |                                                 |
+            | 3\.  | Pendidikan Fisika                    |                                                 |
+            | 4\.  | Pendidikan IPA                       |                                                 |
+            | 5\.  | Pendidikan Vokasional Teknik Elektro |                                                 |
+            | 6\.  | Pendidikan Vokasional Teknik Mesin   |                                                 |
+            | 7\.  | PGPAUD                               | Tidak Boleh Buta Warna                          |
+            | 8\.  | Teknik Industri                      | Buta Warna Sebagian/Partial masih diperbolehkan |
+            | 9\.  | Teknik Elektro                       | Tidak Boleh Buta Warna                          |
+            | 10\. | Teknik Sipil                         | Tidak Boleh Buta Warna                          |
+            | 11\. | Teknik Kimia                         | Tidak Boleh Buta Warna                          |
+            | 12\. | Teknik Mesin                         |                                                 |
+            | 13\. | Teknik Metalurgi                     |                                                 |
+            | 14\. | Agroekoteknologi                     | Tidak Boleh Buta Warna                          |
+            | 15\. | Ilmu Perikanan                       | Buta Warna Sebagian/Partial masih diperbolehkan |
+            | 16\. | Teknologi Pangan                     | Buta Warna Sebagian/Partial masih diperbolehkan |
+            | 17\. | Agribisnis                           |                                                 |
+            | 18\. | Gizi                                 | Tidak Boleh Buta Warna                          |
+            | 19\. | Keperawatan (D3)                     | Tidak Boleh Buta Warna                          |
+            | 20\. | Ilmu Keperawatan (S1)                | Tidak Boleh Buta Warna                          |
+            | 21\. | Kedokteran                           | Tidak Boleh Buta Warna                          |
+            | 22\. | Ilmu Keolahragaan                    | Tidak Boleh Buta Warna                          |
+
+        10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
+
+            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (bulan Juli atau Agustus),
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : [Surat Pernyataan Penghasilan bermaterai dan ditandatangani Orang tua/Wali](https://drive.google.com/file/d/1NZq31ZS_zoJofnCPWnpP07nOvCYvRSM0/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*),
+            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (bulan Juli atau Agustus).
+
+    -   **Berkas tambahan bagi pendaftar KIP-Kuliah khusus jalur SNMPTN dan SBMPTN (format pdf tidak lebih dari 266 KB)**:
+
+        1.  Bukti registrasi KIP-Kuliah (*scan* dan *upload*)
+        2.  Peta rute menuju rumah dari kota terdekat (*scan* dan *upload*)
+        3.  Foto rumah tampak depan, tampak samping, dan tampak belakang. Jadikan 1 file (*upload*)
+
+3.  *Upload* foto diri, dengan ketentuan:
+
+    -   Laki-laki (jas hitam, baju putih, dasi hitam, *background* merah, ukuran (4×6)),
+    -   Perempuan (jas hitam/blazer, baju putih, dasi hitam, *background* merah, ukuran ( 4×6)),
+    -   Perempuan berjilbab (jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi, ukuran (4×6)),
+    -   Format file adalah JPG.
+
+4.  Isilah dengan **benar**, **akurat**, dan **jujur** semua data diri anda.\
+
+5.  Penetapan UKT dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses 2 hingga 4.\
+
+6.  Tatacara pembayaran UKT dapat dilihat [di sini](http://bit.ly/tirtaUKT){target="_blank"}.\
+
+7.  **Lain-lain**:
+
+    -   Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa;
+
+    -   Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
+
+        a.  <https://admisi.untirta.ac.id>,
+        b.  <https://untirta.ac.id>,
+        c.  email anda masing-masing (**pastikan email anda aktif**).
+
+    -   Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}.
