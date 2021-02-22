@@ -4,11 +4,11 @@ title: "Panduan Registrasi Ulang 2021"
 date: "Diupdate pada: `r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
-    toc: yes
+    toc: no
     toc_depth: '2'
     df_print: paged
     theme: spacelab
-    toc_float: no
+    toc_float: nodit 
   pdf_document:
     toc: yes
     toc_depth: '2'
@@ -56,19 +56,21 @@ pre { /* Code block - determines code spacing between lines */
 }
 </style>
 ```
-Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** (**SBMPTN**), **Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat** (**SMMPTN**), dan **Ujian Masuk Mandiri** (**UMM**) D3 Tahun 2020 di Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
+Registrasi Ulang bagi Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri **(SNMPTN),** Seleksi Bersama Masuk Perguruan Tinggi (**SBMPTN**), **S**eleksi Mandiri Masuk Perguruan Tinggi Negeri Barat (**SMMPTN**), yang ditetapkan dengan SK Rektor Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut** :<br><br>
+
+dan juga untuk Registrasi Pendaftaran jalur **Ujian Masuk Mandiri** (**UMM**) **D3 dan Alih Jenjang (S1)** di Universitas Sultan Ageng Tirtayasa, [Silahkan Baca Disini](https://reg-umm20.netlify.app/)
 
 1.  Jadwal registrasi ulang
 
-    | NO  | SELEKSI | REGISTRASI ULANG | PEMBAYARAN UKT |
-    |:----|:--------|:-----------------|:---------------|
-    | 1\. | SNMPTN  | 29 Maret 2021    |                |
-    | 2\. | SBMPTN  | 14 Juni 2021     |                |
-    | 3\. | SMMPTN  |                  |                |
+    | NO  | SELEKSI | REGISTRASI ULANG | PEMBAYARAN UKT  |
+    |:----|:--------|:-----------------|:----------------|
+    | 1\. | SNMPTN  | 29 Maret 2021    | jadwal menyusul |
+    | 2\. | SBMPTN  | 14 Juni 2021     | jadwal menyusul |
+    | 3\. | SMMPTN  | jadwal menyusul  | jadwal menyusul |
 
 2.  Pemberkasan secara *online* melalui laman <https://admisi.untirta.ac.id> sesuai dengan jadwal di atas.
 
-    -   *Login* pada laman <https://admisi.untirta.ac.id> dengan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar aktif**). <br><br>**Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
+    -   ***Login*** pada laman <https://admisi.untirta.ac.id> dengan menggunakan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar aktif**). <br><br>**Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
 
     -   Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf/jpg (**ukuran file tidak melebihi 250kb**) untuk di-*upload*.
 
@@ -154,7 +156,7 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
 
 5.  Penetapan UKT akan dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses 2 hingga 4 dan sesuai Jadwal Pembayaran UKT. <br><br>**Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**\
 
-6.  Tatacara pembayaran UKT dapat dilihat [di sini](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}. <br>\
+6.  Tatacara pembayaran UKT dan Biaya Pendidikan dapat dilihat [di sini](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}. <br>\
 
 7.  **Lain-lain**:
 
@@ -166,4 +168,6 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
         b.  <https://untirta.ac.id>,
         c.  email anda masing-masing (**pastikan email anda aktif**).
 
-    -   Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}.
+    -   Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau **Hotline :**
+
+        **Registrasi : 0813-1173-4542**
